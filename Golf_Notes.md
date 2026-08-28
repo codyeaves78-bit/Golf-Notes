@@ -42,6 +42,7 @@ Some things to fix:
 1. On driver, set to neutral, not draw bias — I'm drawing it enough
 2. Consider getting swing path closer to down the line instead of so inside-to-out
 3. Line up with ball almost touching heel of club; new swing path fixes shanks off the hosel
+4. Use square divot drill on blue brick
 
 ## 8/27/2026 — Chipping
 
